@@ -1,4 +1,4 @@
-<h1 align="left">Full-stack Developer</h1>
+<h1 align="left">Backend Focused Full-stack Developer</h1>
 
 ###
 
